@@ -11,6 +11,7 @@ After a lot of testing and soldering, this is the result.
 The hardware used is as follows:
  
  On the Drone (receiver)
+ ----------------------------
     Arduino nano
     LoRa 433Mhz RA-02 transceiver
     Emax RS2205 2600Kv brushless motor
@@ -19,8 +20,10 @@ The hardware used is as follows:
     LM2596S DC-DC buck converter
     AMS1117 3.3V voltage converter
     2200mah 3S 11.1V battery
-    
+ ----------------------------
+
  On the transmitter (remote control)
+ ----------------------------
     Arduino nano
     LoRa RA-02 433Mhx transceiver
     Nokia 5110 LCD
@@ -29,6 +32,7 @@ The hardware used is as follows:
     knob potentiometer
     LM2596S DC-DC buck converter
     AMS1117 3.3V voltage converter
-   
+ ----------------------------
+  
   ToDo --> Add a camera for FPV capabilities
            (maybe using an ESP32Cam I have laying around)
