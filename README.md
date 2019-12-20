@@ -32,7 +32,16 @@ The hardware used is as follows:
     knob potentiometer
     LM2596S DC-DC buck converter
     AMS1117 3.3V voltage converter
- ----------------------------
+ ---------------------------
+ # ToDo --> Add a camera for FPV capabilities
+    maybe using an ESP32Cam I have laying around
   
-  ToDo --> Add a camera for FPV capabilities
-           (maybe using an ESP32Cam I have laying around)
+  
+  # Pictures
+   ![Drone](https://github.com/caleb221/NanoPlane/blob/master/NanoPlane_images/1121.jpg)
+   ![Drone Wiring](https://github.com/caleb221/NanoPlane/blob/master/NanoPlane_images/2073995955.jpg)
+   ![Drone Innards](https://github.com/caleb221/NanoPlane/blob/master/NanoPlane_images/webwx312112getmsgimg.jpg)
+   ![Remote Control](https://github.com/caleb221/NanoPlane/blob/master/NanoPlane_images/214736326.jpg)
+   ![Remote Control Wiring](https://github.com/caleb221/NanoPlane/blob/master/NanoPlane_images/1043638349.jpg)
+   
+
